@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on .C++ projects..
 - 📫 How to reach me .email:nayanamarri9@gmail.com..
 - 😄 Pronouns: she/her...
-- ⚡ Fun fact: I'm a libra
+  
 
 <!---
 nmarri204/nmarri204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
